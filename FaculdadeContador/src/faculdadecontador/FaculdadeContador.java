@@ -29,6 +29,6 @@ public class FaculdadeContador {
             contador++;
         }
         int media = soma / num;
-        System.out.printf("A soma de todos esses números é %s e a média é %s", soma, media);
+        System.out.printf("A soma de todos esses números é %s e a média é %s \n", soma, media);
     }
 }
